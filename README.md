@@ -12,7 +12,7 @@ https://github.com/ocsoares/API-Desafio-Backend-PicPay
 ## Send Email Microservice RabbitMQ
 
 Esse é um **microsserviço** que foi desenvolvido com o **sistema de mensageria de filas**, usando a ferramenta **RabbitMQ**. Foi usado no seu desenvolvimento tecnologias como **TypeScript**, **NestJS** e **Docker**, junto com as técnicas de arquitetura e de código mais recomendadas atualmente, além de ser documentado com o **Swagger**, estar disponível em **Deploy** e ter um **README** detalhando tudo com imagens.<br>
-Com esse microserviço, o usuário é capaz de **enviar emails** para qualquer outro email que ele especificar, com o **assunto** e o **texto** que quiser.
+Com esse microserviço, o usuário é capaz de **enviar emails** para qualquer outro email que ele especificar, com o **assunto** e o **texto** que quiser.<br>
 https://github.com/ocsoares/Send-Email-Microservice-RabbitMQ
 
 <br>
