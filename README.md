@@ -6,12 +6,17 @@ Esse é o meu portfólio das minhas melhores aplicações backend, desenvolvidas
 
 ### API Desafio Backend PicPay ⭐
 
-Essa API foi desenvolvida baseada em um desafio técnico de backend da empresa PicPay, e é a API RESTful mais completa que desenvolvi, consegui colocar em prática todas as minhas habilidades técnicas aprendidas, como **Clean Code**, **Clean Architecture** e **Dependency Injection**, e usei as principais tecnologias, como **TypeScript**, **Node**, **Nest** e **Docker**, implementei testes em todo o projeto usando o **Jest**, documentei usando a ferramenta **Swagger** e fiz um README detalhando com imagens todo o projeto.<br>
+Essa API foi desenvolvida baseada em um desafio técnico de backend da empresa PicPay, e é a API RESTful mais completa que desenvolvi, consegui colocar em prática todas as minhas habilidades técnicas aprendidas, como **Clean Code**, **Clean Architecture** e **Dependency Injection**, e usei as principais tecnologias, como **TypeScript**, **Node**, **Nest** e **Docker**, implementei testes em todo o projeto usando o **Jest**, foi feito o Deploy, documentei usando a ferramenta **Swagger** e fiz um README detalhando com imagens todo o projeto.<br>
 https://github.com/ocsoares/API-Desafio-Backend-PicPay
 
-## ---
+## Send Email Microservice RabbitMQ
 
---
+Esse é um **microsserviço** que foi desenvolvido com o **sistema de mensageria de filas**, usando a ferramenta **RabbitMQ**. Foi usado no seu desenvolvimento tecnologias como **TypeScript**, **NestJS** e **Docker**, junto com as técnicas de arquitetura e de código mais recomendadas atualmente, além de ser documentado com o **Swagger**, estar disponível em **Deploy** e ter um **README** detalhando tudo com imagens.<br>
+Com esse microserviço, o usuário é capaz de **enviar emails** para qualquer outro email que ele especificar, com o **assunto** e o **texto** que quiser.
+https://github.com/ocsoares/Send-Email-Microservice-RabbitMQ
+
+<br>
+<br>
 
 ## Aplicações desenvolvidas apenas com NodeJS
 
