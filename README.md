@@ -15,6 +15,11 @@ Esse é um **microsserviço** que foi desenvolvido com o **sistema de mensageria
 Com esse microserviço, o usuário é capaz de **enviar emails** para qualquer outro email que ele especificar, com o **assunto** e o **texto** que quiser.<br>
 https://github.com/ocsoares/Send-Email-Microservice-RabbitMQ
 
+## Advanced CRUD NestJS
+
+Esse é um CRUD avançado que foi desenvolvido usando **autenticação** com **JWT** nas rotas **protegidas** e **cache**, usando a ferramenta **Redis**. Foi usado no seu desenvolvimento tecnologias como **TypeScript**, **NestJS** e **Docker**, junto com as técnicas de arquitetura e de código mais recomendadas atualmente.<br>
+https://github.com/ocsoares/Advanced-CRUD-NestJS
+
 <br>
 <br>
 
