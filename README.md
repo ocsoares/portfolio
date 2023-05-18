@@ -30,6 +30,11 @@ https://github.com/ocsoares/Advanced-CRUD-NestJS
 Essa **API RESTful** foi desenvolvida baseada em um desafio técnico de backend da empresa **Pagarme**. As melhores técnicas de arquitetura **não** foram adotadas nesse projeto. Foi usado no seu desenvolvimento tecnologias como **TypeScript**, **NodeJS**, **Express**, **Docker**, **banco de dados em nuvem (MongoDB Atlas Database)**, o **Jest** para testes e **Swagger** para a documentação. Foram feito testes que cobrem quase que **100%** da aplicação, que pode ser visto no README detalhando a API.<br>
 https://github.com/ocsoares/API-RESTful-Pagarme
 
+### Twitch Mention Notifier
+
+O **Twitch Mention Notifier** é uma **extensão de navegador** que eu desenvolvi para que os usuários da plataforma **Twitch** sejam **notificados** sempre que forem mencionados no **chat** de algum **canal** que escolherem. Foi desenvolvido usando a **API do Chrome** e a **API da Twitch**, para **validar** se o canal existe ou não antes de ativar a extensão, e também para se conectar ao chat do canal. Todas as instruções e detalhes estão no README do repositório.<br>
+https://github.com/ocsoares/twitch-mention-notifier
+
 ### API RESTful Goomer
 
 Essa **API RESTful** foi desenvolvida baseada em um desafio técnico de backend da empresa **Goomer**. Ela foi feita com as técnicas como **Clean Architecture**, **Dependency Injection** e **Factory Pattern**, e tecnologias como **TypeScript**, **NodeJS**, **Express**, **Docker**, **MongoDB**, o **Jest** para testes, **Swagger** para documentação e **Winston** para os logs.<br>
