@@ -37,18 +37,8 @@ https://github.com/ocsoares/twitch-mention-notifier
 
 ### API RESTful Pagarme
 
-Essa **API RESTful** foi desenvolvida baseada em um desafio técnico de backend da empresa **Pagarme**. As melhores técnicas de arquitetura **não** foram adotadas nesse projeto. Foi usado no seu desenvolvimento tecnologias como **TypeScript**, **NodeJS**, **Express**, **Docker**, **banco de dados em nuvem (MongoDB Atlas Database)**, o **Jest** para testes e **Swagger** para a documentação. Foram feito testes que cobrem quase que **100%** da aplicação, que pode ser visto no README detalhando a API.<br>
+Essa **API RESTful** foi desenvolvida baseada em um desafio técnico de backend da empresa **Pagarme**. Foi usado no seu desenvolvimento tecnologias como **TypeScript**, **NodeJS**, **Express**, **Docker**, **banco de dados em nuvem (MongoDB Atlas Database)**, o **Winston** para logs, o **Jest** para testes e **Swagger** para a documentação. Foram feito testes que cobrem quase que **100%** da aplicação, que pode ser visto no README detalhando a API.<br>
 https://github.com/ocsoares/API-RESTful-Pagarme
-
-### API RESTful Goomer
-
-Essa **API RESTful** foi desenvolvida baseada em um desafio técnico de backend da empresa **Goomer**. Ela foi feita com as técnicas como **Clean Architecture**, **Dependency Injection** e **Factory Pattern**, e tecnologias como **TypeScript**, **NodeJS**, **Express**, **Docker**, **MongoDB**, o **Jest** para testes, **Swagger** para documentação e **Winston** para os logs.<br>
-https://github.com/ocsoares/API-RESTful-Goomer
-
-### File Gallery
-
-Essa **API** foi desenvolvida para permitir que o usuário possa fazer **upload de imagens** na nuvem, para o serviço da Google chamado **Firebase**. Foi usado tecnologias como **TypeScript**, **NodeJS**, **Express**, **Axios** para bater em uma API _externa_ de encurtar URLs para fornecer uma URL curta da imagem _após_ o upload, e o **Multer** para ajudar no upload das imagens.<br>
-https://github.com/ocsoares/File-Gallery
 
 ### Chat Online com Socket.io
 
