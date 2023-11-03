@@ -6,7 +6,7 @@ Esse é o meu portfólio das minhas melhores aplicações backend, desenvolvidas
 
 ### Auth Form NextJS ⭐
 
-Uma aplicação FullStack com formulários seguros para o cadastro, login de usuários e envio de emails, desenvolvida utilizando o framework **NextJS 13** e integrando com **APIs** de um **backend próprio**. Foi implementado um sistema de segurança robusto com **JWT** por parte da API desenvolvida e com o **Next Auth**, permitindo o usuário fazer **login social** na aplicação com contas do **Google** ou do **GitHub**, utilizando autorização **OAuth 2.0**. Foi realizado o **deploy** e feita uma documentação no repositório.<br>
+Uma aplicação FullStack com formulários seguros para o cadastro, login de usuários e envio de emails, desenvolvida utilizando o framework **NextJS 13** e integrando com **APIs** de um **backend próprio** feitas com **NestJS**. Foi implementado um sistema de segurança robusto com **JWT** por parte da API desenvolvida e com o **Next Auth**, permitindo o usuário fazer **login social** na aplicação com contas do **Google** ou do **GitHub**, utilizando autorização **OAuth 2.0**. Foi realizado o **deploy** e feita uma documentação no repositório.<br>
 https://github.com/ocsoares/Auth-Form-NextJS
 
 <br>
