@@ -17,6 +17,7 @@ https://github.com/ocsoares/Auth-Form-NextJS
 ### AWS Email Sending Microservice ⭐
 
 Um microsserviço de enviar email com filas, desenvolvido usando Java Spring Boot, Arquitetura Limpa. Testes Unitários e as ferramentas de mensageria da AWS chamadas AWS SNS e AWS SQS, em que o usuário pode enviar emails para qualquer outro email desejado, especificando os dados solicitados no body da requisição. Foi documentado utilizando o Swagger e efetuado o deploy.
+<br>
 https://github.com/ocsoares/AWS-Email-Sending-Microservice
 
 <br>
