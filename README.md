@@ -1,6 +1,6 @@
-# portfolio-backend
+# portfolio
 
-Esse é o meu portfólio das minhas melhores aplicações backend, desenvolvidas com as melhores técnicas e tecnologias do mercado, como Clean Code, SOLID, Clean Architecture, Testes, Deploy, Docker, Java, Spring Boot, NodeJS, NestJS, documentação e entre outras 👨‍💻💼
+Esse é o meu portfólio das minhas melhores aplicações desenvolvidas com as melhores técnicas e tecnologias do mercado, como Clean Code, SOLID, Clean Architecture, Testes, Deploy, Docker, Java, Spring Boot, TypeScript, NodeJS, ReactJS, NestJS, documentação e entre outras 👨‍💻💼
 
 ## Aplicações FullStack
 
